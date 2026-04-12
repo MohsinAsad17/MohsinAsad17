@@ -1,7 +1,4 @@
-<img align="right" src="YOUR_GIF_URL" width="400"/>
-
-# Hey there 👋
-I'm a CS undergrad...
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 
 # Mohsin Asad
 **Computer Science Undergraduate @ Knox College** *Focused on Software Development, Hardware Systems, and the foundations of Cybersecurity.*
