@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="450"/>
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="430"/>
 </p>
 
-# Hi there, I am Mohsin Asad
+#                                        Hi there, I am Mohsin Asad
 **Computer Science Undergraduate @ Knox College** *Focused on Software Development, Hardware Systems, and the foundations of Cybersecurity.*
 
 ---
