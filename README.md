@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/ML15sUZFNyMy0Yv55m/giphy.gif" width="800"/>
-</p>
+<img src="https://media.giphy.com/media/ZVik7pIojeP4vDdBzt/giphy.gif" width="800"/>
 
 # Mohsin Asad
 **Computer Science Undergraduate @ Knox College** *Focused on Software Development, Hardware Systems, and the foundations of Cybersecurity.*
