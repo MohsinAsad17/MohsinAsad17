@@ -2,6 +2,17 @@
 **Computer Science Undergraduate @ Knox College** *Focused on Software Development, Hardware Systems, and the foundations of Cybersecurity.*
 
 ---
+### 📫 Get In Touch
+* **LinkedIn:** [linkedin.com/in/mohsin-asad-1a0745371/](https://www.linkedin.com/in/mohsin-asad-1a0745371/)
+* **Email:** [mohsin.asad06@gmail.com](mailto:mohsin.asad06@gmail.com)
+
+Language and tools:
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ### 🛠️ Technical Proficiencies
 * **Languages:** `Java` (Object-Oriented Programming), `Python` (Scripting & Automation), `SQL` (Database Management).
@@ -27,6 +38,4 @@
 
 ---
 
-### 📫 Get In Touch
-* **LinkedIn:** [linkedin.com/in/mohsin-asad-1a0745371/](https://www.linkedin.com/in/mohsin-asad-1a0745371/)
-* **Email:** [mohsin.asad06@gmail.com](mailto:mohsin.asad06@gmail.com)
+
