@@ -20,9 +20,10 @@
 ---
 
 ### 📊 GitHub Activity
-![Mohsin's Stats](https://github-readme-stats.vercel.app/api?username=MohsinAsad17&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Mohsin's Stats](https://github-readme-stats-one-bice.vercel.app/api?username=MohsinAsad17&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohsinAsad17&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=MohsinAsad17&layout=compact&theme=tokyonight&hide_border=true)
+
 
 ---
 
