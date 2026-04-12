@@ -3,8 +3,14 @@
 
 ---
 ### 📫 Get In Touch
-* **LinkedIn:** [linkedin.com/in/mohsin-asad-1a0745371/](https://www.linkedin.com/in/mohsin-asad-1a0745371/)
-* **Email:** [mohsin.asad06@gmail.com](mailto:mohsin.asad06@gmail.com)
+<p align="left">
+  <a href="https://www.linkedin.com/in/mohsin-asad-1a0745371" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50"/>
+  </a>
+  <a href="mailto:mohsin.asad06@gmail.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="50" height="50"/>
+  </a>
+</p>
 
 Language and tools:
 <p align="left">
