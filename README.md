@@ -8,7 +8,18 @@
 
 Language and tools:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,mysql,linux,git,vscode" />
+  <a href="https://www.java.com" target="_blank">
+    <img src="https://techstack-generator.vercel.app/java-icon.svg" width="50" height="50" />
+  </a>
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50" height="50" />
+  </a>
+  <a href="https://www.mysql.com" target="_blank">
+    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="50" height="50" />
+  </a>
+  <a href="https://git-scm.com" target="_blank">
+    <img src="https://techstack-generator.vercel.app/github-icon.svg" width="50" height="50" />
+  </a>
 </p>
 
 ### 🛠️ Technical Proficiencies
