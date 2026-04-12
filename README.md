@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif]https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTM3OGl5ajZwOWdvaHIwamQzb3pzdjNndmZ4dmpyZjFxd3o4aWxvZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ML15sUZFNyMy0Yv55m/giphy.gif" width="800"/>
+  <img src="https://media.giphy.com/media/ML15sUZFNyMy0Yv55m/giphy.gif" width="800"/>
 </p>
 
 # Mohsin Asad
