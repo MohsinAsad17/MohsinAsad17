@@ -1,16 +1,6 @@
 ![Coding](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
-![Coding](https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif)
-
-![Coding](https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif)
-
-![Coding](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
-
-![Coding](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
-
-![Coding](https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif)
-
-# Hi there, I am Mohsin Asad
+# Hi there, I am Mohsin
 
 **Computer Science Undergraduate @ Knox College** *Focused on Software Development, Hardware Systems, and the foundations of Cybersecurity.*
 
@@ -63,7 +53,10 @@
 * Currently pursuing my degree at **Knox College**, focusing on data structures and system architecture.
 * Interested in the intersection of **Physical Hardware** (3D printing) and **Digital Security**.
 
+![Coding](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
+
 ---
+
 
 ### 📊 GitHub Activity
 ![Mohsin's Stats](https://github-readme-stats-one-bice.vercel.app/api?username=MohsinAsad17&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
