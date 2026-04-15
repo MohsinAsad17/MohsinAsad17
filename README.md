@@ -15,7 +15,7 @@
   </a>
 </p>
 
-### Language and tools:
+### 🛠️ Languages and Tools
 <p align="left">
   <a href="https://www.java.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/>
